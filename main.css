@@ -1,0 +1,13 @@
+body, html {
+    height: 200px;
+    margin: 0;
+}
+
+body {
+    display: grid;
+    justify-items: center;
+}
+
+#bm{
+    width: 100%;
+}
